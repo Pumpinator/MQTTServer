@@ -1,0 +1,37 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Carpetas de compilación
+/build/
+*/build/
+.cxx/
+.externalNativeBuild/
+
+# Archivos de log y capturas
+/captures/
+*.log
+
+# Archivos de dependencias
+*.apk
+*.ap_
+*.dex
+
+# Archivos de configuración de Kotlin
+*.kotlin_module
+
+# Archivos de cache
+.idea/
+out/
